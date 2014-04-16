@@ -1,22 +1,22 @@
 /* TEAM */
 
                             
-Your title: Your name.
-Site: email, link to a contact form, etc.
-Twitter: your Twitter username.
-Location: City, Country.
+Site Developer: Chris Cameron
+Site: chris.cameron@ferventfoundry.com
+Twitter: @cryophobic.
+Location: Montreal, Canada.
 
 							
 /* THANKS */
 
 							
-Name: name or url
+Name: http://ferventfoundry.com
 
                             
 /* SITE */
 
                             
-Last update: YYYY/MM/DD 
+Last update: 2014/MM/DD 
 Standards: HTML5, CSS3,..
 Components: Modernizr, jQuery, etc.
-Software: Software used for the development
+Software: Sublime Text 3, Chrome

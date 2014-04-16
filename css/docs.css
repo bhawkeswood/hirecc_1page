@@ -51,11 +51,12 @@
 /* line 76, ../../../docs_scss/docs.scss */
 .main-description-container .social {
   color: #34495e;
+  margin-left: -12px;
 }
 /* line 80, ../../../docs_scss/docs.scss */
 .main-description-container .social a .fa {
-  color: #34495e;
-  font-size: 2.375rem;
+  color: #FFF;
+  font-size: 2.375rem;a
 }
 /* line 87, ../../../docs_scss/docs.scss */
 .main-description-container .row {
@@ -794,7 +795,10 @@ button.warning.active, button.warning:active, .button.warning.active, .button.wa
 }
 /* line 115, ../../../scss/furatto/_buttons.scss */
 button.warning.alpha, .button.warning.alpha {
-  border: 1px solid #34495e;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #34495e;
   background: rgba(0, 0, 0, 0);
   color: #e4652d;
 }
@@ -812,7 +816,10 @@ button.warning.inverse, .button.warning.inverse {
 button.warning.inverse:hover, .button.warning.inverse:hover {
   background: #34495e;
   color: #FFF;
-  border: 1px solid #FFF;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #FFF;
 }
 /* line 137, ../../../scss/furatto/_buttons.scss */
 button.warning.three-d, .button.warning.three-d {
